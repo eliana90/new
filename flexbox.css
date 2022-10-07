@@ -1,0 +1,11 @@
+.flex-container{
+    display: flex;
+    background-color: aliceblue;
+}
+
+.flex-container div{
+    background-color: rgb(225, 61, 200);
+    width: 50px;
+    margin: 10px;
+    color: white;
+}
